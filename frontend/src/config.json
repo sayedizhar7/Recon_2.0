@@ -1,0 +1,9 @@
+{
+  "api": {
+    "baseUrl": "http://localhost:8000"
+  },
+  "defaults": {
+    "toleranceAmount": 10,
+    "toleranceTime": 10
+  }
+}

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+xlrd
+python-multipart
+sqlalchemy
+psycopg2-binary
+pdfplumber
+rapidfuzz
+httpx
+requests
+matplotlib
+numpy
+python-dotenv
